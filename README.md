@@ -2,7 +2,10 @@
 
 When working with Print.js ensure to include the script. 
 
-Add the following attribute to the button or link: onclick="printDiv('printableArea')"
+Add the following attribute to the button or link: 
+```
+onclick="printDiv('printableArea')"
+```
 
 You must associate the div tag with the following ID to enable the area: id="printableArea"
 
